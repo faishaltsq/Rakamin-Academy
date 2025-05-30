@@ -11,7 +11,7 @@ Tugas Akhir pembuatan frontend
 Install Project
 
 ```bash
-  git clone https://github.com/faishaltsq/VIX-Front-End.git
+  git clone https://github.com/faishaltsq/VIX-Front-End.git](https://github.com/faishaltsq/Rakamin-Academy.git
 
   cd VIX-Front-End
 
